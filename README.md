@@ -11,9 +11,3 @@ I focus on turning ideas into simple, functional applications and improving them
 * Building more complete and real-world applications
 * Exploring software engineering and user-focused design
 
----
-
-## 📫 Contact
-
-Feel free to explore my projects and reach out!
-
