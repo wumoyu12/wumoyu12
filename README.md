@@ -1,32 +1,9 @@
 ## Hi there 👋
 
 ---
+I'm a high school student who builds projects to explore how technology works in real life.<br>
+I focus on turning ideas into simple, functional applications and improving them through practice.
 
-## 💻 Projects
-
-### 🔹 Steps Make the Way
-
-A simulated platform for a non-profit volunteering organization.
-
----
-
-### 🔹 Hawkzon (School Shopping Website)
-
-A simulated shopping website designed for students.
-
----
-
-### 🔹 Interactive Jeopardy Quiz
-
-An educational quiz game created for students by using SNAP.
-
----
-
-### 🔹 Restaurant Ordering System
-
-A simple console-based ordering system.
-
----
 
 ## 🚀 Currently Working On
 
